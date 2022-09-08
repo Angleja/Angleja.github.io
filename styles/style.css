@@ -1,11 +1,20 @@
 h1 {
     color: red;
 }
+h2 {
+    color: blue;
+}
+h3 {
+    color: orange;
+}
 a:link{
     color: black;
 }
 a:hover{
     color: #e91063;
+}
+a:visited{
+    color:gray;
 }
 a{
     text-decoration: none;
