@@ -18,7 +18,9 @@ a:visited{
 }
 a{
     text-decoration: none;
-    /* border-bottom: thin dashed; */
+    border-right-style: dashed;
+    border-right-width: thin;
+    border-right-color: forestgreen;
     padding-right: 1px;
 }
 div#Recently{
@@ -30,7 +32,8 @@ div#Recently{
     padding-right: 30px;
     float: right;
     margin-left: 50px;
-    text-align: center;
+    text-align:justify;
+    line-height: 150%;
 }
 div#TableContain1, div#TableContain2, div#TableContain3{
     display: table;
