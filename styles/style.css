@@ -48,3 +48,8 @@ div#Column11, div#Column12{
 div#Cell211, div#Cell212, div#Cell221, div#Cell222, div#Cell231, div#Cell232, div#Cell311, div#Cell312{
     display: table-cell;
 }
+
+/* Inland or overseas */
+p.InlandLink {
+    background-color: #fad0c4;
+}
