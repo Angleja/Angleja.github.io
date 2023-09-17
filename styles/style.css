@@ -48,7 +48,35 @@ div#Column11, div#Column12{
 div#Cell211, div#Cell212, div#Cell221, div#Cell222, div#Cell231, div#Cell232, div#Cell311, div#Cell312{
     display: table-cell;
 }
-
+.head{
+    position: absolute;
+    top: 0px;
+    height: auto;
+    width: 95%;
+}
+.Outercontent{
+    position: absolute !important;
+    position: relative;
+    top:0px !important;
+    top: 0;
+    bottom: 5%;
+    width: auto;
+    overflow: hidden;
+    height: auto !important;
+    height: 100%;
+}
+.Innercontent{
+    height: 100% ;
+    overflow-y: auto;
+}
+.tailbar{
+    position: absolute; 
+    bottom: 0px;
+    height: 5%; 
+    width: 90%;
+    text-align: center; 
+    font-size: 150%
+}
 /* Inland or overseas */
 p.InlandLink {
     background-color: #fad0c4;
