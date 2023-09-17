@@ -52,12 +52,12 @@ div#Cell211, div#Cell212, div#Cell221, div#Cell222, div#Cell231, div#Cell232, di
     position: absolute;
     top: 0px;
     height: auto;
-    width: 95%;
+    width: 99%;
 }
 .Outercontent{
     position: absolute !important;
     position: relative;
-    top:0px !important;
+    top:5% !important;
     top: 0;
     bottom: 5%;
     width: auto;
@@ -73,9 +73,9 @@ div#Cell211, div#Cell212, div#Cell221, div#Cell222, div#Cell231, div#Cell232, di
     position: absolute; 
     bottom: 0px;
     height: 5%; 
-    width: 90%;
+    width: 95%;
     text-align: center; 
-    font-size: 150%
+    font-size: 100%
 }
 /* Inland or overseas */
 p.InlandLink {
