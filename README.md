@@ -153,11 +153,7 @@
 [中国行业发展报告](http://report.cei.cn/index.html)
 [黄帝内经](https://gitee.com/songjinghe/hall-of-light)
 
-[八点一刻](https://www.badianyike.com/)
-[PDF5](https://www.pdf5.net/)
-[PDF之家](http://pdfzj.cn/)
 [脚本之家](https://www.jb51.net/books/)
-[杂志旗](https://zazhi7.com/)
 [下载杂志](https://ch.downmagaz.net/)
 [magzDB](http://magzdb.org/)
 [志趣杂志](https://www.zazhipdf.com/)
