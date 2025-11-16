@@ -58,8 +58,12 @@ kramdown:
       line_numbers: true
       start_line: 1
 
+# 允许 Mermaid 图表渲染      
+mermaid:
+  enable: true
+
 # Disqus settings
-disqus_username: qiu jiang
+disqus_username: qiu-jiang
 
 # Netease settings
 netease_comment: false
@@ -92,12 +96,12 @@ page-mathjax: false
 friends:
   [
     { title: "阮一峰的网络日志", href: "http://www.ruanyifeng.com/blog/" },
-    { title: "乱序（Midare）", href: "http://mida.re/" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
     { title: "SmdCn", href: "http://blog.smdcn.net" },
     { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
     { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "吴传斌博客", href: "http://www.mr-wu.cn/" },
+    { title: "黄玄博客", href: "http://huangxuan.me" }
   ]
